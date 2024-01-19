@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sahil-mengji
+- [Check out my Portfolio](https://sahil-mengji.github.io/portfolio/)
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach out to me on sahilanand716@gmail.com
+
 
 <!---
 sahil-mengji/sahil-mengji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
